@@ -1,6 +1,7 @@
 ---
 # Display name
-title: 井上 貴央(Takahiro INOUE)
+title: 井上 貴央
+(Takahiro INOUE)
 
 # Is this the primary user of the site?
 superuser: true
