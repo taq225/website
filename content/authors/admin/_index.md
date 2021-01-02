@@ -22,6 +22,7 @@ interests:
 - 機械学習
 - 最適化
 - アルゴリズム
+- 数学
 
 # Education to show in About widget
 education:
