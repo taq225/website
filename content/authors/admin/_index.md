@@ -20,6 +20,8 @@ bio: ケモインフォマティクスの研究をしている博士課程学生
 interests:
 - ケモインフォマティクス
 - 機械学習
+- 最適化
+- アルゴリズム
 
 # Education to show in About widget
 education:
@@ -28,10 +30,10 @@ education:
   #   institution: The University of Tokyo
   #   year: 2022
   - course: 修士 (工学)
-    institution: 東京大学
+    institution: 東京大学 (工学系研究科 化学システム工学専攻)
     year: 2019
   - course: 学士 (工学)
-    institution: 京都大学
+    institution: 京都大学 (工学部情報学科 数理工学コース)
     year: 2017
 
 # Social/Academic Networking
