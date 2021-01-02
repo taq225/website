@@ -1,7 +1,6 @@
 ---
 # Display name
-title: 井上 貴央  
-(Takahiro INOUE)
+title: Takahiro INOUE
 
 # Is this the primary user of the site?
 superuser: true
@@ -72,5 +71,6 @@ email: ""
 highlight_name: false
 ---
 
+井上 貴央です.
 東京大学大学院工学系研究科 化学システム工学専攻の博士課程学生です.
 ケモインフォマティクス, 特に構造生成器に関する研究を行っています.
