@@ -13,7 +13,7 @@ address:
   country: 日本
 
 summary: ''
-abstract: 化学データに対してデータ解析を行う際の大まかな流れや手法について, ケモインフォマティクス若手の会 交流会にて概説した.
+abstract: 化学データに対してデータ解析を行う際の大まかな流れや手法について, ケモインフォマティクス若手の会 交流会にて概説した (発表時のスライドはリンクから).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
