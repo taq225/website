@@ -1,5 +1,5 @@
 ---
-title: セルオートマトンを用いた腹膜癒着防止材の数理的設計
+title: 特徴ベクトルへの摂動によるグラフデータ拡張⼿法の開発
 
 event: 第43回ケモインフォマティクス討論会
 event_url: http://www-dsc.naist.jp/chemoinfo2020/
