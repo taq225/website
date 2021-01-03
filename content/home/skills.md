@@ -22,7 +22,7 @@ feature:
   description: 80%
 - icon: chart-area
   icon_pack: fas
-  name: 数学 ()
+  name: 数学
   description: 80%
 - icon: chart-line
   icon_pack: fas
@@ -31,7 +31,7 @@ feature:
 - icon: laptop-code
   icon_pack: fas
   name: C言語
-  description: 40%
+  description: 50%
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
