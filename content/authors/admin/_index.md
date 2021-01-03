@@ -6,11 +6,11 @@ title: Takahiro INOUE
 superuser: true
 
 # Role/position/tagline
-role: 博士課程学生
+role: Ph.D Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 東京大学
+- name: The University of Tokyo
   url: https://www.u-tokyo.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
