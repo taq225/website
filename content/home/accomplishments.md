@@ -57,8 +57,8 @@ item:
   url: 
 - title: 'TOEIC 940点 取得'
   certificate_url:
-  date_end: "2016-06-01"
-  date_start: "2018-05-31"
+  date_end: "2018-05-31"
+  date_start: "2016-06-01"
   organization: 
   organization_url:
   description: 
