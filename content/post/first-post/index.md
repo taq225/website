@@ -1,5 +1,5 @@
 ---
-title: The First Post
+title: タイトル
 subtitle: サブタイトル
 
 # Summary for listings and search engines
@@ -15,7 +15,7 @@ date: "2021-01-03"
 lastmod: "2021-01-03"
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
