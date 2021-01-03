@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: 日本
 
-summary: ''
+summary: '要約が入る'
 abstract: 化学データに対してデータ解析を行う際の大まかな流れや手法について概説する.
 
 # Talk start and end times.
@@ -60,3 +60,4 @@ projects: []
 
 ---
 
+テキスト
