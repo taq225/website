@@ -28,39 +28,39 @@ item:
   certificate_url:
   date_end: ""
   date_start: "2019-11-01"
-  organization: 
+  organization:
   organization_url:
-  description: 
+  description:
 - title: 統計検定 1級 合格
   certificate_url:
   date_end: ""
   date_start: "2018-12-01"
-  organization: 
+  organization:
   organization_url:
-  description: 
-  url: 
+  description:
+  url:
 - title: ドイツ語技能検定試験 3級 合格
   certificate_url:
   date_end: ""
   date_start: "2017-07-01"
-  organization: 
+  organization:
   organization_url:
-  description:  
-  url: 
+  description:
+  url:
 - title: 実用英語技能検定 1級 合格
   certificate_url:
   date_end: ""
   date_start: "2016-11-01"
-  organization: 
+  organization:
   organization_url:
-  description:  
-  url: 
+  description:
+  url:
 - title: 'TOEIC 940点 取得'
   certificate_url:
   date_end: "2018-05-31"
   date_start: "2016-06-01"
-  organization: 
+  organization:
   organization_url:
-  description: 
+  description:
   url: ""
 ---
