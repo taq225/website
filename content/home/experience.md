@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: インターン
-    company: 株式会社 Preferred Networks {{<icon name="code" pack="fas">}}
+    company: 株式会社 Preferred Networks
     company_url: 'https://preferred.jp/'
     location: 東京都
     date_start: '2019-08-07'
     date_end: '2019-09-20'
-    description: ケモインフォマティクス関連の業務を行いました. リーディングプログラムに提出した報告書は[こちら{{<icon name="external-link-alt" pack="fas">}}](http://www.ap.t.u-tokyo.ac.jp/merit/training/pdf/report/intern_2019_inoue.pdf).
+    description: ケモインフォマティクス関連の業務を行いました. リーディングプログラムに提出した報告書は[こちら](http://www.ap.t.u-tokyo.ac.jp/merit/training/pdf/report/intern_2019_inoue.pdf){:target="_blank"}.
 ---
