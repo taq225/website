@@ -20,7 +20,7 @@ feature:
   icon_pack: fab
   name: Python
   description: 80%
-- icon: chart-area
+- icon: book
   icon_pack: fas
   name: 数学
   description: 80%
@@ -28,10 +28,18 @@ feature:
   icon_pack: fas
   name: 統計
   description: 80%
+- icon: brain
+  icon_pack: fas
+  name: 機械学習
+  description: 80%
+- icon: code
+  icon_pack: fas
+  name: アルゴリズム
+  description: 70%
 - icon: laptop-code
   icon_pack: fas
   name: C言語
-  description: 50%
+  description: 40%
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -48,4 +56,4 @@ feature:
 #  description: "90%"
 ---
 
-パーセンテージは自信の度合いです.
+パーセンテージは自信の度合いを表すものです.
