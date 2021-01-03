@@ -23,6 +23,7 @@ interests:
 - 最適化
 - アルゴリズム
 - 数学
+- 自然言語
 
 # Education to show in About widget
 education:
@@ -59,7 +60,7 @@ social:
   link: https://www.linkedin.com/in/%E8%B2%B4%E5%A4%AE-%E4%BA%95%E4%B8%8A-1a0474147/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
