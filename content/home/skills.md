@@ -19,15 +19,19 @@ feature:
 - icon: python
   icon_pack: fab
   name: Python
-- icon: function
+  description: 80%
+- icon: chart-area
   icon_pack: fas
-  name: Mathematics
+  name: 数学 ()
+  description: 80%
 - icon: chart-line
   icon_pack: fas
-  name: Statistics
-- icon: "latex"
-  icon_pack: "custom"
-  name: LaTeX
+  name: 統計
+  description: 80%
+- icon: laptop-code
+  icon_pack: fas
+  name: C言語
+  description: 40%
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -43,3 +47,5 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+
+パーセンテージは自信の度合いです.
