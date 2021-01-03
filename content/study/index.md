@@ -20,8 +20,8 @@ header:
 (残念ながら) 全て手書きです. Ch.5あたりからノートが不完全なところもあります......
 (Last update: 2021/01/03)
 
-- [Chapter 2](materials/bayesian_dl/ch2.pdf)
-- [Chapter 3](materials/bayesian_dl/ch3.pdf)
-- [Chapter 4](materials/bayesian_dl/ch4.pdf)
-- [Chapter 5 (未完)](materials/bayesian_dl/ch5.pdf)
-- [Chapter 6 (一部のみ)](materials/bayesian_dl/ch6.pdf)
+- [Chapter 2](bayesian_dl/ch2.pdf)
+- [Chapter 3](bayesian_dl/ch3.pdf)
+- [Chapter 4](bayesian_dl/ch4.pdf)
+- [Chapter 5 (未完)](bayesian_dl/ch5.pdf)
+- [Chapter 6 (一部のみ)](bayesian_dl/ch6.pdf)
