@@ -12,8 +12,8 @@ address:
   postcode: ''
   country: 日本
 
-summary: '要約が入る'
-abstract: 化学データに対してデータ解析を行う際の大まかな流れや手法について概説する.
+summary: ''
+abstract: 化学データに対してデータ解析を行う際の大まかな流れや手法について, ケモインフォマティクス若手の会 交流会にて概説した.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -60,4 +60,3 @@ projects: []
 
 ---
 
-テキスト
