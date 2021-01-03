@@ -28,5 +28,5 @@ experience:
     location: 東京都
     date_start: '2019-08-07'
     date_end: '2019-09-20'
-    description: ケモインフォマティクス関連の業務を行いました. リーディングプログラムに提出した報告書は[こちら](http://www.ap.t.u-tokyo.ac.jp/merit/training/pdf/report/intern_2019_inoue.pdf){:target="_blank"}.
+    description: ケモインフォマティクス関連の業務を行いました. リーディングプログラムに提出した報告書は<a href="http://www.ap.t.u-tokyo.ac.jp/merit/training/pdf/report/intern_2019_inoue.pdf" target=”_blank”>こちら</a> (外部サイト).
 ---
