@@ -13,7 +13,7 @@ address:
   country: 日本
 
 summary: ''
-abstract: 修士過程時の研究について, この時点までで得られた結果をケモインフォマティクス討論会にて報告した.
+abstract: 修士課程時の研究について, この時点までで得られた結果をケモインフォマティクス討論会にて報告した.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
