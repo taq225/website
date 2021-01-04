@@ -70,7 +70,7 @@ Ch.4はノートが不完全です......
 証明は割と端折っていますが......
 (Last update: 2021/01/03)
 
-- [Chapter 2](math_stat/ch1.pdf)
+- [Chapter 1](math_stat/ch1.pdf)
 - [Chapter 2](math_stat/ch2.pdf)
 - [Chapter 3](math_stat/ch3.pdf)
 - [Chapter 4](math_stat/ch4.pdf)
