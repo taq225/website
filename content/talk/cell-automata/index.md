@@ -13,7 +13,7 @@ address:
   country: 日本
 
 summary: ''
-abstract: 修士過程時の講義で得られた成果を学会で報告した (ポスター発表).
+abstract: 修士課程時の講義で得られた成果を学会で報告した (ポスター発表).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
