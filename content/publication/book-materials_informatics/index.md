@@ -5,9 +5,9 @@ title: "詳解 マテリアルズインフォマティクス – 有機・無機
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- 船津 公人
-- 井上 貴央
-- 西川 大貴
+- "船津 公人"
+- "井上 貴央"
+- "西川 大貴"
 
 # Author notes (optional)
 # author_notes:
