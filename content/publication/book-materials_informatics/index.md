@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2021-08-13"
-doi:
+# doi:
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -27,10 +27,10 @@ doi:
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: 近代科学社Digital
+publication: "近代科学社Digital"
 # publication_short:
 
-abstract: ケモインフォマティクスにおける深層学習手法について広く解説を試みました. 井上は主に深層学習の基礎知識パートと有機化学パートを担当しています.
+abstract: "ケモインフォマティクスにおける深層学習手法について広く解説を試みました. 井上は主に深層学習の基礎知識パートと有機化学パートを担当しています."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -42,7 +42,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: 出版社Website
+- name: "出版社Website"
   url: https://nextpublishing.jp/book/13586.html
 
 # url_pdf: ''
