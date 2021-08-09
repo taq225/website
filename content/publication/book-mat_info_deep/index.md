@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "詳解 マテリアルズインフォマティクス – 有機・無機化学のための深層学習"
+title: 詳解 マテリアルズインフォマティクス – 有機・無機化学のための深層学習
 authors:
-- "船津 公人"
-- "井上 貴央"
-- "西川 大貴"
+- 船津 公人
+- 井上 貴央
+- 西川 大貴
 
 date: "2021-08-13"
 doi: ""
@@ -20,15 +20,15 @@ publishDate: "2021-08-01"
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "近代科学社Digital"
+publication: 近代科学社Digital
 # publication_short: ""
 
-abstract: "ケモインフォマティクスにおける深層学習手法について広く解説を試みました. 井上は主に深層学習の基礎知識パートと有機化学パートを担当しています."
+abstract: ケモインフォマティクスにおける深層学習手法について広く解説を試みました. 井上は主に深層学習の基礎知識パートと有機化学パートを担当しています. Kindle版と印刷版 (オンデマンド) があります. 目次などは出版社Websiteを御覧ください.
 
 # Summary. An optional shortened abstract.
 # summary: ""
 
-tags: ['ケモインフォマティクス', 'マテリアルズインフォマティクス', '深層学習']
+tags: ['Chemoinformatics', 'Materials Informatics', 'Deep Learning']
 # categories: []
 featured: true
 
