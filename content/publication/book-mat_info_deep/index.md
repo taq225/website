@@ -23,7 +23,7 @@ publication_types: ["5"]
 publication: 近代科学社Digital
 # publication_short: ""
 
-abstract: ケモインフォマティクスにおける深層学習手法について広く解説を試みました. 井上は主に深層学習の基礎知識パートと有機化学パートを担当しています. Kindle版と印刷版 (オンデマンド) があります. 目次などは出版社Websiteを御覧ください.
+abstract: ケモインフォマティクスにおける深層学習手法について広く解説を試みました. 井上は主に深層学習の基礎知識パートと有機化学パートを担当しています. 電子版と印刷版 (オンデマンド) があります. 目次などは出版社Websiteを御覧ください.
 
 # Summary. An optional shortened abstract.
 # summary: ""
