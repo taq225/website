@@ -6,7 +6,7 @@ title: Takahiro INOUE
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate
+role: Ph.D. in Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,11 +14,11 @@ organizations:
   url: https://www.u-tokyo.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ケモインフォマティクスの研究をしている博士課程学生です.
+bio: ケモインフォマティクス/マテリアルズインフォマティクスの研究をしています.
 
 # Interests to show in About widget
 interests:
-- ケモインフォマティクス
+- ケモインフォマティクス/マテリアルズインフォマティクス
 - 機械学習
 - 最適化
 - アルゴリズム
@@ -28,9 +28,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  # - course: PhD in Engineering
-  #   institution: The University of Tokyo
-  #   year: 2022
+  - course: 博士 (工学)
+    institution: 東京大学 (工学系研究科 化学システム工学専攻)
+    year: 2022
   - course: 修士 (工学)
     institution: 東京大学 (工学系研究科 化学システム工学専攻)
     year: 2019
@@ -74,5 +74,4 @@ highlight_name: false
 ---
 
 井上 貴央です.
-東京大学大学院工学系研究科 化学システム工学専攻の博士課程学生です.
-ケモインフォマティクス, 特に構造生成器に関する研究を行っています.
+ケモインフォマティクス/マテリアルズインフォマティクスの研究, 特に分子構造生成器に関する研究を行っています.
