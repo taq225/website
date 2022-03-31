@@ -22,15 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: リサーチ・エンジニア
+  - title: リサーチエンジニア
     company: 株式会社Elix
     company_url: 'https://www.elix-inc.com/jp/'
     location: 東京都
     date_start: '2022-04-01'
     date_end: ''
-    description: リサーチ・エンジニアとして働いています.
+    description: リサーチエンジニアとして働いています.
   - title: インターン
-    company: 株式会社 Preferred Networks
+    company: 株式会社Preferred Networks
     company_url: 'https://preferred.jp/'
     location: 東京都
     date_start: '2019-08-07'
