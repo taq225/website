@@ -6,12 +6,12 @@ title: Takahiro INOUE
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Engineering
+role: Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The University of Tokyo
-  url: https://www.u-tokyo.ac.jp/
+- name: Elix, Inc.
+  url: https://www.elix-inc.com/jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ケモインフォマティクス/マテリアルズインフォマティクスの研究をしています.
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:t_inoue[at]chemsys.t.u-tokyo.ac.jp'
+  link: 'mailto:takahiro.inoue[at]elix-inc.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Zephyros225
