@@ -1,5 +1,5 @@
 ---
-title: 分子構造生成モデルのクイックレビュー
+title: SMILES言語モデルSmilesFormerの開発とその応用例
 
 event: 第50回構造活性相関シンポジウム
 event_url: http://www.bio.info.hiroshima-cu.ac.jp/qsar2022/
