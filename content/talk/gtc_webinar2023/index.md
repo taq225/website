@@ -1,5 +1,5 @@
 ---
-title: 分子構造生成モデルの基本とその動向
+title: Transformerの要点とその化学への応用
 
 event: GTCヘルスケアフォローアップウェビナー2023
 event_url:
